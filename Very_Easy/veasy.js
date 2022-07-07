@@ -7,4 +7,5 @@ function min(num1, num2){
         return num2
     }
 }
+// example to check function
 console.log(min(9, 6))
